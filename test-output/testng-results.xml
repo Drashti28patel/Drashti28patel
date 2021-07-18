@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-06T02:28:32Z" name="Suite" finished-at="2021-05-06T02:28:55Z" duration-ms="22974">
+    <groups>
+    </groups>
+    <test started-at="2021-05-06T02:28:32Z" name="Test" finished-at="2021-05-06T02:28:55Z" duration-ms="22974">
+      <class name="tests.LoginTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.LoginTest@41fecb8b]" started-at="2021-05-06T02:28:32Z" name="beforeMethod" finished-at="2021-05-06T02:28:37Z" duration-ms="4639" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyEmptyEmailTest()[pri:0, instance:tests.LoginTest@41fecb8b]" started-at="2021-05-06T02:28:37Z" name="verifyEmptyEmailTest" finished-at="2021-05-06T02:28:40Z" duration-ms="2428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmptyEmailTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.LoginTest@41fecb8b]" started-at="2021-05-06T02:28:40Z" name="afterMethod" finished-at="2021-05-06T02:28:41Z" duration-ms="1197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.LoginTest@41fecb8b]" started-at="2021-05-06T02:28:41Z" name="beforeMethod" finished-at="2021-05-06T02:28:44Z" duration-ms="3677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyInvalidEmailTest()[pri:0, instance:tests.LoginTest@41fecb8b]" started-at="2021-05-06T02:28:44Z" name="verifyInvalidEmailTest" finished-at="2021-05-06T02:28:47Z" duration-ms="2898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidEmailTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.LoginTest@41fecb8b]" started-at="2021-05-06T02:28:47Z" name="afterMethod" finished-at="2021-05-06T02:28:48Z" duration-ms="1149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.LoginTest@41fecb8b]" started-at="2021-05-06T02:28:48Z" name="beforeMethod" finished-at="2021-05-06T02:28:52Z" duration-ms="3323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyWrongPasswordTest()[pri:0, instance:tests.LoginTest@41fecb8b]" started-at="2021-05-06T02:28:52Z" name="verifyWrongPasswordTest" finished-at="2021-05-06T02:28:55Z" duration-ms="2890" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWrongPasswordTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.LoginTest@41fecb8b]" started-at="2021-05-06T02:28:55Z" name="afterMethod" finished-at="2021-05-06T02:28:55Z" duration-ms="757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- tests.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
